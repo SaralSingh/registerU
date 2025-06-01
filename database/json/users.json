@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Ravi Sharma",
+    "email": "ravi@example.com",
+    "age": 24,
+    "city": "Delhi",
+    "phone_no": "9876543210",
+    "photo": "images/profiles/ravi.jpg"
+  },
+  {
+    "name": "Anjali Verma",
+    "email": "anjali@example.com",
+    "age": 22,
+    "city": "Mumbai",
+    "phone_no": "9123456780",
+    "photo": "images/profiles/anjali.jpg"
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram@example.com",
+    "age": 25,
+    "city": "Chennai",
+    "phone_no": "9012345678",
+    "photo": "images/profiles/vikram.jpg"
+  },
+  {
+    "name": "Priya Chauhan",
+    "email": "priya@example.com",
+    "age": 23,
+    "city": "Jaipur",
+    "phone_no": "9988776655",
+    "photo": "images/profiles/priya.jpg"
+  },
+  {
+    "name": "Amit Joshi",
+    "email": "amit@example.com",
+    "age": 26,
+    "city": "Pune",
+    "phone_no": "9900112233",
+    "photo": "images/profiles/amit.jpg"
+  },
+  {
+    "name": "Neha Kapoor",
+    "email": "neha@example.com",
+    "age": 21,
+    "city": "Chandigarh",
+    "phone_no": "8899776655",
+    "photo": "images/profiles/neha.jpg"
+  },
+  {
+    "name": "Manoj Yadav",
+    "email": "manoj@example.com",
+    "age": 24,
+    "city": "Lucknow",
+    "phone_no": "7777888899",
+    "photo": "images/profiles/manoj.jpg"
+  },
+  {
+    "name": "Sneha Singh",
+    "email": "sneha@example.com",
+    "age": 23,
+    "city": "Lucknow",
+    "phone_no": "9988001122",
+    "photo": "images/profiles/sneha.jpg"
+  },
+  {
+    "name": "Rahul Jain",
+    "email": "rahul@example.com",
+    "age": 22,
+    "city": "Ahmedabad",
+    "phone_no": "9666554433",
+    "photo": "images/profiles/rahul.jpg"
+  },
+  {
+    "name": "Pooja Mehta",
+    "email": "pooja@example.com",
+    "age": 25,
+    "city": "Pune",
+    "phone_no": "9554433221",
+    "photo": "images/profiles/poja.jpg"
+  },
+  
+  {
+    "name": "Deepak Malhotra",
+    "email": "deepak@example.com",
+    "age": 27,
+    "city": "Hyderabad",
+    "phone_no": "9845612345",
+    "photo": "images/profiles/deepak.jpg"
+  },
+  {
+    "name": "Kavita Deshmukh",
+    "email": "kavita@example.com",
+    "age": 23,
+    "city": "Nagpur",
+    "phone_no": "9823456781",
+    "photo": "images/profiles/kavita.jpg"
+  },
+  {
+    "name": "Rohan Mehra",
+    "email": "rohan@example.com",
+    "age": 26,
+    "city": "Ahmedabad",
+    "phone_no": "9876554321",
+    "photo": "images/profiles/rohan.jpg"
+  },
+  {
+    "name": "Swati Gupta",
+    "email": "swati@example.com",
+    "age": 22,
+    "city": "Kanpur",
+    "phone_no": "9898989898",
+    "photo": "images/profiles/swati.jpg"
+  },
+  {
+    "name": "Nikhil Tiwari",
+    "email": "nikhil@example.com",
+    "age": 25,
+    "city": "Indore",
+    "phone_no": "9765432100",
+    "photo": "images/profiles/nikhil.jpg"
+  },
+  {
+    "name": "Tanya Bhatia",
+    "email": "tanya@example.com",
+    "age": 24,
+    "city": "Bhopal",
+    "phone_no": "9856732109",
+    "photo": "images/profiles/tanya.jpg"
+  },
+  {
+    "name": "Rajeev Sinha",
+    "email": "rajeev@example.com",
+    "age": 28,
+    "city": "Patna",
+    "phone_no": "9901122334",
+    "photo": "images/profiles/rajeev.jpg"
+  },
+  {
+    "name": "Meena Kumari",
+    "email": "meena@example.com",
+    "age": 21,
+    "city": "Varanasi",
+    "phone_no": "9911223344",
+    "photo": "images/profiles/meena.jpg"
+  },
+  {
+    "name": "Yash Rawat",
+    "email": "yash@example.com",
+    "age": 23,
+    "city": "Noida",
+    "phone_no": "9988776605",
+    "photo": "images/profiles/yash.jpg"
+  },
+  {
+    "name": "Shruti Saxena",
+    "email": "shruti@example.com",
+    "age": 22,
+    "city": "Ghaziabad",
+    "phone_no": "9776655443",
+    "photo": "images/profiles/shruti.jpg"
+  }
+
+]

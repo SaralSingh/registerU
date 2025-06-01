@@ -1,0 +1,14 @@
+
+[
+  { "name": "Saral Gaur", "email": "saral.gaur@example.com", "city": "Kanpur" },
+  { "name": "Aman Singh", "email": "aman.singh@example.com", "city": "Lucknow" },
+  { "name": "Ravi Sharma", "email": "ravi.sharma@example.com" },
+  { "name": "Meena Kumari", "email": "meena.k@example.com", "city": "Delhi" },
+  { "name": "Priya Verma", "email": "priya.verma@example.com", "city": "Agra" },
+  { "name": "Kunal Thakur", "email": "kunal.t@example.com" },
+  { "name": "Neha Patel", "email": "neha.patel@example.com", "city": "Varanasi" },
+  { "name": "Vikas Yadav", "email": "vikas.y@example.com" },
+  { "name": "Pooja Sinha", "email": "pooja.sinha@example.com", "city": "Bhopal" },
+  { "name": "Ankit Joshi", "email": "ankit.joshi@example.com", "city": "Jaipur" }
+]
+
